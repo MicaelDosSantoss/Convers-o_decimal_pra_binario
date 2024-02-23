@@ -1,0 +1,7 @@
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\bin\Debug\Converter_Decimal_Binario.exe.config
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\bin\Debug\Converter_Decimal_Binario.exe
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\bin\Debug\Converter_Decimal_Binario.pdb
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\obj\Debug\Converter_Decimal_Binario.csproj.AssemblyReference.cache
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\obj\Debug\Converter_Decimal_Binario.csproj.CoreCompileInputs.cache
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\obj\Debug\Converter_Decimal_Binario.exe
+C:\Users\micae\Documents\PROGRAMACAO\Csharp\Converter_Decimal_Binario\Converter_Decimal_Binario\obj\Debug\Converter_Decimal_Binario.pdb
